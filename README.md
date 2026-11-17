@@ -26,7 +26,6 @@ mvn -version
    cd VetCare-Clinic-Management
    ```
 
-   Thay `YOUR_USERNAME` bằng tên tài khoản GitHub. Nếu thư mục chứa `pom.xml` nằm bên trong một thư mục con, hãy `cd` vào đúng thư mục chứa `pom.xml` trước khi chạy.
 
 2. Chạy lệnh:
 
